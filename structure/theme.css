@@ -1,0 +1,21 @@
+:root{
+ --bg-color:#ffffff;
+ --text-color:#111111;
+ --primary:#0ea5e9;
+ --card-bg:#f8fafc;
+ --border-color:#e5e7eb;
+
+ --radius:12px;
+
+ --space-sm:8px;
+ --space-md:16px;
+ --space-lg:24px;
+}
+
+.dark-mode{
+ --bg-color:#0f172a;
+ --text-color:#f1f5f9;
+ --card-bg:#1e293b;
+ --border-color:#334155;
+}
+
